@@ -184,10 +184,4 @@ Open `frontend/index.html` in your browser.
 
 ---
 
-## 🎓 Context
-
-Built for **CSE 512: Distributed Database Systems** at Arizona State University (Fall 2025). This project demonstrates practical implementation of distributed systems concepts including the CAP theorem, Raft consensus algorithm, geographic data partitioning, and serializable isolation — applied to a real-world e-commerce inventory use case.
-
----
-
 *Built with CockroachDB Cloud · Node.js · Express · JavaScript*
